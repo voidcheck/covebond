@@ -1,4 +1,4 @@
-let element, board1, board2, button, play;
+let board1, board2, button, play;
 let circles = {};
 let elem1 = [];
 let bonds = {};
