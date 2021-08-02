@@ -1,0 +1,21 @@
+{
+    "quizDetails": "Chemistry quiz details",
+    "elements": [
+        {
+            "key": "C",
+            "val": 6
+        },
+        {
+            "key": "O",
+            "val": 8
+        },
+        {
+            "key": "H",
+            "val": 5
+        },
+        {
+            "key": "N",
+            "val": 4
+        }
+    ]
+}
